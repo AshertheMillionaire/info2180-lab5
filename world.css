@@ -1,0 +1,58 @@
+/* Add your own styles */
+
+body{
+    max-width:1500px;
+    background-color:#7b2ca8;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    place-content:center;
+    place-items:center;
+    font-family: cursive;
+}
+
+
+
+
+main{
+    max-width:1500px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+button{
+    padding: 1pc;
+}
+
+#country{
+    padding: 1pc;
+}
+table{
+    margin: 1px;
+    text-align:left;  
+}
+
+table th{
+    padding:1em 0.5em;
+    text-align:center;
+    margin:1em 0;
+    border:2px solid #99a032;
+    background-color: #e4f30b;
+    color:rgb(212, 194, 194);
+}
+table td{
+    padding: .5em;
+    text-align:center;
+    border:2px solid #2bd9f0;
+}
+
+table tr{
+    padding:2em;
+}
+
+ table  tr:hover {
+     background-color: #2fa5bd;
+    color:whitesmoke;
+ } 
+
+
